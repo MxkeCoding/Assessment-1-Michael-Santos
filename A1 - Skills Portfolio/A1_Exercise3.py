@@ -32,7 +32,7 @@ root.configure(bg="#EEF4F8")
 #Texts that's written in the assessment
 l = Label(root, text="Student Manager",
       	fg="black",
-      	bg="#FFFFFF",
+      	bg="#EEF4F8",
       	font=('Calibri',20))
 l.pack()
 
@@ -188,7 +188,7 @@ btn_lowest.place(x=350, y=75, height=25, width=150)
 #labels the text and be visible
 l1 = Label(root, text="View Individual Student Record:",
       	fg="black",
-      	bg="#FFFFFF",
+      	bg="#EEF4F8",
       	font=('Calibri',13))
 l1.place(x=50, y=125)
 
